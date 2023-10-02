@@ -33,6 +33,7 @@
             button3 = new Button();
             label1 = new Label();
             label2 = new Label();
+            button4 = new Button();
             SuspendLayout();
             // 
             // button1
@@ -80,11 +81,21 @@
             label2.TabIndex = 4;
             label2.Text = "se agrega un segundo texto";
             // 
+            // button4
+            // 
+            button4.Location = new Point(538, 109);
+            button4.Name = "button4";
+            button4.Size = new Size(112, 51);
+            button4.TabIndex = 5;
+            button4.Text = "por fin";
+            button4.UseVisualStyleBackColor = true;
+            // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
             ClientSize = new Size(800, 450);
+            Controls.Add(button4);
             Controls.Add(label2);
             Controls.Add(label1);
             Controls.Add(button3);
@@ -103,5 +114,6 @@
         private Button button3;
         private Label label1;
         private Label label2;
+        private Button button4;
     }
 }
