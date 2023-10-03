@@ -9,18 +9,43 @@ namespace curso_C__git_hub
 
         private void button1_Click(object sender, EventArgs e)
         {
-            int edad = 15;
-            bool esMayorDeEdad = edad >= 18;
+            string textoPeso = txtPeso.Text;
+            double peso = Double.Parse(textoPeso); //convertimos el texto a un numero klg
 
-           
-            if (esMayorDeEdad)
-            {
-                label1.Text = "el usuario es mayor de edad";
-            }
-            else
-            {
-                label1.Text = "el usuario es menor de edad";
-            }
+            string textoAltura = txtAltura.Text;
+            double altura = Double.Parse(textoAltura); // metros
+
+            double imc = peso / (altura * altura); //imc es peso dividido la altura al cuadrado
+
+            MessageBox.Show("El IMC es: " + imc);
+            
+
+              
+        }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+        private void txtPeso_TextChanged(object sender, EventArgs e)
+        {
+
+        }
+
+        private void label1_Click(object sender, EventArgs e)
+        {
 
         }
     }
