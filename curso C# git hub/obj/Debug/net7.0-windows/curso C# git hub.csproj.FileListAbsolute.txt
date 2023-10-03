@@ -14,3 +14,19 @@ C:\Users\josed\OneDrive\Escritorio\Programacion\curso de C# con git hub\Curso_de
 C:\Users\josed\OneDrive\Escritorio\Programacion\curso de C# con git hub\Curso_de_C_con_github-\curso C# git hub\obj\Debug\net7.0-windows\curso C# git hub.pdb
 C:\Users\josed\OneDrive\Escritorio\Programacion\curso de C# con git hub\Curso_de_C_con_github-\curso C# git hub\obj\Debug\net7.0-windows\curso C# git hub.genruntimeconfig.cache
 C:\Users\josed\OneDrive\Escritorio\Programacion\curso de C# con git hub\Curso_de_C_con_github-\curso C# git hub\obj\Debug\net7.0-windows\ref\curso C# git hub.dll
+C:\Users\ADMIN\Desktop\Programacion\Virtual studio\clon de git hub C#\Curso_de_C_con_github-\curso C# git hub\bin\Debug\net7.0-windows\curso C# git hub.exe
+C:\Users\ADMIN\Desktop\Programacion\Virtual studio\clon de git hub C#\Curso_de_C_con_github-\curso C# git hub\bin\Debug\net7.0-windows\curso C# git hub.deps.json
+C:\Users\ADMIN\Desktop\Programacion\Virtual studio\clon de git hub C#\Curso_de_C_con_github-\curso C# git hub\bin\Debug\net7.0-windows\curso C# git hub.runtimeconfig.json
+C:\Users\ADMIN\Desktop\Programacion\Virtual studio\clon de git hub C#\Curso_de_C_con_github-\curso C# git hub\bin\Debug\net7.0-windows\curso C# git hub.dll
+C:\Users\ADMIN\Desktop\Programacion\Virtual studio\clon de git hub C#\Curso_de_C_con_github-\curso C# git hub\bin\Debug\net7.0-windows\curso C# git hub.pdb
+C:\Users\ADMIN\Desktop\Programacion\Virtual studio\clon de git hub C#\Curso_de_C_con_github-\curso C# git hub\obj\Debug\net7.0-windows\curso_C__git_hub.Form1.resources
+C:\Users\ADMIN\Desktop\Programacion\Virtual studio\clon de git hub C#\Curso_de_C_con_github-\curso C# git hub\obj\Debug\net7.0-windows\curso C# git hub.csproj.GenerateResource.cache
+C:\Users\ADMIN\Desktop\Programacion\Virtual studio\clon de git hub C#\Curso_de_C_con_github-\curso C# git hub\obj\Debug\net7.0-windows\curso C# git hub.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ADMIN\Desktop\Programacion\Virtual studio\clon de git hub C#\Curso_de_C_con_github-\curso C# git hub\obj\Debug\net7.0-windows\curso C# git hub.AssemblyInfoInputs.cache
+C:\Users\ADMIN\Desktop\Programacion\Virtual studio\clon de git hub C#\Curso_de_C_con_github-\curso C# git hub\obj\Debug\net7.0-windows\curso C# git hub.AssemblyInfo.cs
+C:\Users\ADMIN\Desktop\Programacion\Virtual studio\clon de git hub C#\Curso_de_C_con_github-\curso C# git hub\obj\Debug\net7.0-windows\curso C# git hub.csproj.CoreCompileInputs.cache
+C:\Users\ADMIN\Desktop\Programacion\Virtual studio\clon de git hub C#\Curso_de_C_con_github-\curso C# git hub\obj\Debug\net7.0-windows\curso C# git hub.dll
+C:\Users\ADMIN\Desktop\Programacion\Virtual studio\clon de git hub C#\Curso_de_C_con_github-\curso C# git hub\obj\Debug\net7.0-windows\refint\curso C# git hub.dll
+C:\Users\ADMIN\Desktop\Programacion\Virtual studio\clon de git hub C#\Curso_de_C_con_github-\curso C# git hub\obj\Debug\net7.0-windows\curso C# git hub.pdb
+C:\Users\ADMIN\Desktop\Programacion\Virtual studio\clon de git hub C#\Curso_de_C_con_github-\curso C# git hub\obj\Debug\net7.0-windows\curso C# git hub.genruntimeconfig.cache
+C:\Users\ADMIN\Desktop\Programacion\Virtual studio\clon de git hub C#\Curso_de_C_con_github-\curso C# git hub\obj\Debug\net7.0-windows\ref\curso C# git hub.dll
