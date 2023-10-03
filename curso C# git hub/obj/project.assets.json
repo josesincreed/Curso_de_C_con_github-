@@ -8,23 +8,23 @@
     "net7.0-windows7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\ADMIN\\.nuget\\packages\\": {},
+    "C:\\Users\\josed\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\ADMIN\\Desktop\\Programacion\\Virtual studio\\clon de git hub C#\\Curso_de_C_con_github-\\curso C# git hub\\curso C# git hub.csproj",
+      "projectUniqueName": "C:\\Users\\josed\\OneDrive\\Escritorio\\Programacion\\curso de C# con git hub\\Curso_de_C_con_github-\\curso C# git hub\\curso C# git hub.csproj",
       "projectName": "curso C# git hub",
-      "projectPath": "C:\\Users\\ADMIN\\Desktop\\Programacion\\Virtual studio\\clon de git hub C#\\Curso_de_C_con_github-\\curso C# git hub\\curso C# git hub.csproj",
-      "packagesPath": "C:\\Users\\ADMIN\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\ADMIN\\Desktop\\Programacion\\Virtual studio\\clon de git hub C#\\Curso_de_C_con_github-\\curso C# git hub\\obj\\",
+      "projectPath": "C:\\Users\\josed\\OneDrive\\Escritorio\\Programacion\\curso de C# con git hub\\Curso_de_C_con_github-\\curso C# git hub\\curso C# git hub.csproj",
+      "packagesPath": "C:\\Users\\josed\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\josed\\OneDrive\\Escritorio\\Programacion\\curso de C# con git hub\\Curso_de_C_con_github-\\curso C# git hub\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\ADMIN\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\josed\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
