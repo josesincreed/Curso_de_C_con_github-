@@ -28,110 +28,120 @@
         /// </summary>
         private void InitializeComponent()
         {
-            textBox1 = new TextBox();
-            textBox2 = new TextBox();
-            textBox3 = new TextBox();
+            listCarritoDeCompras = new ListBox();
+            btnAgregar = new Button();
+            btnCalcular = new Button();
+            cboProductos = new ComboBox();
             label1 = new Label();
-            label2 = new Label();
-            label3 = new Label();
-            button1 = new Button();
-            label4 = new Label();
+            txtCodigoDescuento = new TextBox();
+            pictureBox1 = new PictureBox();
+            pictureBox2 = new PictureBox();
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).BeginInit();
             SuspendLayout();
             // 
-            // textBox1
+            // listCarritoDeCompras
             // 
-            textBox1.Location = new Point(156, 87);
-            textBox1.Name = "textBox1";
-            textBox1.Size = new Size(100, 23);
-            textBox1.TabIndex = 0;
+            listCarritoDeCompras.FormattingEnabled = true;
+            listCarritoDeCompras.ItemHeight = 15;
+            listCarritoDeCompras.Location = new Point(12, 12);
+            listCarritoDeCompras.Name = "listCarritoDeCompras";
+            listCarritoDeCompras.Size = new Size(195, 244);
+            listCarritoDeCompras.TabIndex = 0;
             // 
-            // textBox2
+            // btnAgregar
             // 
-            textBox2.Location = new Point(156, 116);
-            textBox2.Name = "textBox2";
-            textBox2.Size = new Size(100, 23);
-            textBox2.TabIndex = 1;
+            btnAgregar.Location = new Point(213, 41);
+            btnAgregar.Name = "btnAgregar";
+            btnAgregar.Size = new Size(120, 32);
+            btnAgregar.TabIndex = 1;
+            btnAgregar.Text = "Añadir al carrito";
+            btnAgregar.UseVisualStyleBackColor = true;
+            btnAgregar.Click += btnAgregar_Click;
             // 
-            // textBox3
+            // btnCalcular
             // 
-            textBox3.Location = new Point(156, 145);
-            textBox3.Name = "textBox3";
-            textBox3.Size = new Size(100, 23);
-            textBox3.TabIndex = 2;
+            btnCalcular.Location = new Point(213, 79);
+            btnCalcular.Name = "btnCalcular";
+            btnCalcular.Size = new Size(124, 46);
+            btnCalcular.TabIndex = 2;
+            btnCalcular.Text = "Calcular Precio ";
+            btnCalcular.UseVisualStyleBackColor = true;
+            btnCalcular.Click += btnCalcular_Click;
+            // 
+            // cboProductos
+            // 
+            cboProductos.FormattingEnabled = true;
+            cboProductos.Location = new Point(213, 12);
+            cboProductos.Name = "cboProductos";
+            cboProductos.Size = new Size(124, 23);
+            cboProductos.TabIndex = 3;
             // 
             // label1
             // 
             label1.AutoSize = true;
-            label1.Location = new Point(63, 95);
+            label1.Location = new Point(362, 241);
             label1.Name = "label1";
-            label1.Size = new Size(87, 15);
-            label1.TabIndex = 3;
-            label1.Text = "Primer nùmero";
+            label1.Size = new Size(120, 15);
+            label1.TabIndex = 4;
+            label1.Text = "Codigo de descuento";
             // 
-            // label2
+            // txtCodigoDescuento
             // 
-            label2.AutoSize = true;
-            label2.Location = new Point(51, 124);
-            label2.Name = "label2";
-            label2.Size = new Size(99, 15);
-            label2.TabIndex = 4;
-            label2.Text = "Segundo nùmero";
+            txtCodigoDescuento.Location = new Point(362, 215);
+            txtCodigoDescuento.Name = "txtCodigoDescuento";
+            txtCodigoDescuento.Size = new Size(124, 23);
+            txtCodigoDescuento.TabIndex = 5;
             // 
-            // label3
+            // pictureBox1
             // 
-            label3.AutoSize = true;
-            label3.Location = new Point(63, 153);
-            label3.Name = "label3";
-            label3.Size = new Size(83, 15);
-            label3.TabIndex = 5;
-            label3.Text = "Tercer nùmero";
+            pictureBox1.Image = Properties.Resources.download1;
+            pictureBox1.Location = new Point(362, 12);
+            pictureBox1.Name = "pictureBox1";
+            pictureBox1.Size = new Size(143, 90);
+            pictureBox1.TabIndex = 6;
+            pictureBox1.TabStop = false;
             // 
-            // button1
+            // pictureBox2
             // 
-            button1.Location = new Point(262, 99);
-            button1.Name = "button1";
-            button1.Size = new Size(136, 64);
-            button1.TabIndex = 6;
-            button1.Text = "Calcular";
-            button1.UseVisualStyleBackColor = true;
-            button1.Click += button1_Click_1;
-            // 
-            // label4
-            // 
-            label4.AutoSize = true;
-            label4.Location = new Point(193, 31);
-            label4.Name = "label4";
-            label4.Size = new Size(88, 15);
-            label4.TabIndex = 7;
-            label4.Text = "Mayor y Menor";
+            pictureBox2.Image = Properties.Resources.alvaro_uribe_velez_11;
+            pictureBox2.Location = new Point(223, 131);
+            pictureBox2.Name = "pictureBox2";
+            pictureBox2.Size = new Size(100, 112);
+            pictureBox2.SizeMode = PictureBoxSizeMode.Zoom;
+            pictureBox2.TabIndex = 7;
+            pictureBox2.TabStop = false;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(454, 223);
-            Controls.Add(label4);
-            Controls.Add(button1);
-            Controls.Add(label3);
-            Controls.Add(label2);
+            ClientSize = new Size(517, 270);
+            Controls.Add(pictureBox2);
+            Controls.Add(pictureBox1);
+            Controls.Add(txtCodigoDescuento);
             Controls.Add(label1);
-            Controls.Add(textBox3);
-            Controls.Add(textBox2);
-            Controls.Add(textBox1);
+            Controls.Add(cboProductos);
+            Controls.Add(btnCalcular);
+            Controls.Add(btnAgregar);
+            Controls.Add(listCarritoDeCompras);
             Name = "Form1";
+            Load += Form1_Load;
+            ((System.ComponentModel.ISupportInitialize)pictureBox1).EndInit();
+            ((System.ComponentModel.ISupportInitialize)pictureBox2).EndInit();
             ResumeLayout(false);
             PerformLayout();
         }
 
         #endregion
 
-        private TextBox textBox1;
-        private TextBox textBox2;
-        private TextBox textBox3;
+        private ListBox listCarritoDeCompras;
+        private Button btnAgregar;
+        private Button btnCalcular;
+        private ComboBox cboProductos;
         private Label label1;
-        private Label label2;
-        private Label label3;
-        private Button button1;
-        private Label label4;
+        private TextBox txtCodigoDescuento;
+        private PictureBox pictureBox1;
+        private PictureBox pictureBox2;
     }
 }

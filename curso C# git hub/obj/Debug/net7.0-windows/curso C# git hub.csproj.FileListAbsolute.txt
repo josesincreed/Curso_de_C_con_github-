@@ -30,3 +30,4 @@ C:\Users\ADMIN\Desktop\Programacion\Virtual studio\clon de git hub C#\Curso_de_C
 C:\Users\ADMIN\Desktop\Programacion\Virtual studio\clon de git hub C#\Curso_de_C_con_github-\curso C# git hub\obj\Debug\net7.0-windows\curso C# git hub.pdb
 C:\Users\ADMIN\Desktop\Programacion\Virtual studio\clon de git hub C#\Curso_de_C_con_github-\curso C# git hub\obj\Debug\net7.0-windows\curso C# git hub.genruntimeconfig.cache
 C:\Users\ADMIN\Desktop\Programacion\Virtual studio\clon de git hub C#\Curso_de_C_con_github-\curso C# git hub\obj\Debug\net7.0-windows\ref\curso C# git hub.dll
+C:\Users\ADMIN\Desktop\Programacion\Virtual studio\clon de git hub C#\Curso_de_C_con_github-\curso C# git hub\obj\Debug\net7.0-windows\curso_C__git_hub.Properties.Resources.resources
